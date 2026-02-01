@@ -1,0 +1,11 @@
+# ignore all csv files
+*.csv
+
+# ignore zip files
+*.zip
+
+# ignore model files
+*.pth
+
+# ignore virtual env
+myenv/
